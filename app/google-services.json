@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "237384934762",
+    "firebase_url": "https://foodcraft-9ff58.firebaseio.com",
+    "project_id": "foodcraft-9ff58",
+    "storage_bucket": "foodcraft-9ff58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237384934762:android:5c74e76ce39c72f8",
+        "android_client_info": {
+          "package_name": "com.example.android.foodcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237384934762-5e9anib1fq8lcmkcfc8otq22qb72ne3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.foodcraft",
+            "certificate_hash": "95a105218c0df51efa24fabb8d8431e87ff7575e"
+          }
+        },
+        {
+          "client_id": "237384934762-38ul16h7qi4r6opbq29ts82s75ltqbkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.foodcraft",
+            "certificate_hash": "ead0e2d034c8cbab1d79153e3dd20e93e4fa83ce"
+          }
+        },
+        {
+          "client_id": "237384934762-gsuagsfu3k6t2d4nf43ad5hqi5n6qg0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0G0E7S95bZ82EZVRqgR146-rl0N78crM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237384934762-gsuagsfu3k6t2d4nf43ad5hqi5n6qg0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

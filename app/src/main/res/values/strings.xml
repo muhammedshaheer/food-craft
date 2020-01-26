@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Food Craft</string>
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="required_email">Email Required</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="shop_by_category">Shop by Category</string>
+
+    <string name="action_cart">Cart</string>
+    <string name="action_search">Search</string>
+
+    <string name="text_name">Name</string>
+    <string name="text_delete">Delete</string>
+    <string name="title_description">DESCRIPTION</string>
+    <string name="text_total">Total: </string>
+    <string name="text_proceed">Proceed</string>
+    <string name="text_image">Image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="go_to_cart">Go to Cart</string>
+
+    <string name="cost_details">Cost Details</string>
+    <string name="process_checkout">PROCESS CHECKOUT</string>
+    <string name="buyer_profile">Buyer Profile</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_shipping">Shipping</string>
+    <string name="choose_shipping">Choose shipping</string>
+    <string name="hint_date_ship">Date Shipping</string>
+    <string name="hint_comment">Comment</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or_sign_in">or sign in with:</string>
+    <string name="Null">null</string>
+    <string name="no_account">Don\'t Have An Account ?</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="product_order_list">Product Order List</string>
+    <string name="create_new_account">Create new account</string>
+
+    <string name="text_name_upper">NAME</string>
+    <string name="text_email_upper">EMAIL ADDRESS</string>
+    <string name="text_pass_upper">PASSWORD</string>
+    <string name="text_phone_upper">PHONE</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_agreement">By Signing up you agree with our terms and conditions</string>
+
+    <string name="total_excluding">Total (Excluding Tax)</string>
+    <string name="text_tax">Tax</string>
+
+    <string name="no_item">No Item</string>
+    <string name="continue_shopping">Continue Shopping</string>
+
+</resources>

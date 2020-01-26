@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#CA2B1A</color>-->
+    <!--<color name="colorPrimaryDark">#F44336</color>-->
+    <!--<color name="colorAccent">#C22418</color>-->
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="colorDefault">#3f51b5</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayAction">#0e0d0e</color>
+
+    <color name="Swipedelete">#D1002A</color>
+
+
+    <color name="glide_slider_background_color">#000000</color>
+    <color name="glide_slider_indicator_color">#FFFFFF</color>
+    <color name="glide_slider_description_color">#FFFFFF</color>
+    <color name="glide_slider_description_background_color">#77000000</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+</resources>

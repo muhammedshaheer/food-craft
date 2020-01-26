@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/swipe"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.android.foodcraft.Home"
+    tools:showIn="@layout/app_bar_home">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.glide.slider.library.SliderLayout
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"/>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="30dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/shop_category"
+            tools:text="@string/shop_by_category"
+            android:layout_gravity="center_vertical"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/darker_gray"
+            android:layout_marginStart="10dp"/>
+
+      </LinearLayout>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_menu"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="225dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+  </RelativeLayout>
+
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
